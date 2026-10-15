@@ -59,4 +59,4 @@ Player: 3 Computer: 2
 
 ## Author
 
-Your Name
+Sivapriya M S
